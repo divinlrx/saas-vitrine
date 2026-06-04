@@ -1,4 +1,4 @@
-# Studio — Site vitrine
+# Nexa Labs — Site vitrine
 
 Site vitrine statique (une page) présentant une activité de création d'applications mobiles SaaS et de gestion de flottes mobiles (Mobile Device Management).
 
